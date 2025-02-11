@@ -1,6 +1,7 @@
 # Sistemas Operacionais
 #### _Saiba o que é um sistema operacional, como ele atua no seu computador ou celular e conheça algumas curiosidades sobre ele._
  Os sistemas operacionais são softwares responsáveis por controlar e gerenciar os recursos de um computador ou dispositivo eletrônico. Dentre eles, o Windows se tornou um dos sistemas operacionais mais usados no mundo, tanto em computadores pessoais quanto em ambientes corporativos. Aqui, vamos descobrir curiosidades sobre este mundo tão amplo.
+ ![sistemas](https://www.icloud.com.br/wp-content/uploads/2023/10/principais-sistemas-operacionais-788x525.webp)
 ### O que são os sistemas operacionais?
   Sistemas operacionais são programas fundamentais que administram e controlam os componentes de um computador ou dispositivo, permitindo que os usuários interajam com o sistema e executem aplicativos. Eles gerenciam recursos como o processador, memória, armazenamento, funcionamento harmonioso e eficiente do sistema, entre outros. Além disso, proporcionam uma interface que facilita a comunicação entre o usuário e o dispositivo. Alguns exemplos conhecidos de sistemas operacionais incluem Windows, macOS, Linux e Android.
 ### Evolução dos sistemas operacionais:
@@ -21,14 +22,23 @@
  Além disso, a Microsoft Store foi aprimorada e o Windows 11 passou a suportar a execução de aplicativos Android, ampliando as possibilidades para desenvolvedores e usuários.
 ### Versões mais importantes do Windows:
 #### Windows 95 (1995): 
+![sistemas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBZaLHSxiJMH0mtPStrWyh1bCdRMGZ7t2uw&s)
   O Windows 95 atende usuários de escritório, que utilizam bancos de dados, planilhas e editores de texto, além de suportar computação móvel e recursos multimídia para usuários domésticos.
 #### Windows XP (2001):
+![sistemas](https://github.com/user-attachments/assets/b18cd74f-d614-4cd7-92af-bd2a3edb9eb2)
+
 Sua importância é comandar o funcionamento do computador, oferecendo uma interface rica e eficiente, além de diversos aplicativos e recursos.
 #### Windows 7 (2009): 
+![sistemas](https://github.com/user-attachments/assets/b287ac89-cd27-4b9f-a4d7-32dd372b2855)
+
 O Windows 7 foi desenvolvido para ser eficiente, claro e prático, além de ser compatível com hardware e software, reduzindo problemas com programas do Windows XP.
 #### Windows 10 (2012):
+![sistemas](https://github.com/user-attachments/assets/0dc15ccd-2762-42bf-97b3-32892e9ef898)
+
  O Windows 10 fornece atualizações durante o suporte do dispositivo, incluindo atualizações de qualidade e de recursos.
 #### Windows 11 (2021):
+![sistemas](https://github.com/user-attachments/assets/5269039d-9cf8-49b5-a880-49cdc362d971)
+
  Foi projetado para aumentar a produtividade, com um menu "Iniciar" mais organizado e recursos como "Layouts" e "Grupos Snap" para melhorar a multitarefa.
 ### Arquitetura do Windows
 **Hardware:** A base do sistema, incluindo o processador, memória, e dispositivos de entrada/saída.
@@ -77,3 +87,5 @@ Digite a nova data: (dd-mm-aa) 06/01/2000
 - O Windows 95 foi um sucesso, vendendo 40 milhões de cópias em um ano.
 - Algumas versões do Windows jamais foram lançadas.
 - O nome "Windows" foi inspirado pela ideia de múltiplas "janelas" (windows) que podem ser abertas ao mesmo tempo, permitindo aos usuários realizar várias tarefas simultaneamente.
+- #### FONTE: https://nexusnerd.com.br/evolucao-dos-sistemas-operacionais-de-ms-dos-ao-windows-11/
+- ####        chatgpt.com
