@@ -21,26 +21,59 @@
  Além disso, a Microsoft Store foi aprimorada e o Windows 11 passou a suportar a execução de aplicativos Android, ampliando as possibilidades para desenvolvedores e usuários.
 ### Versões mais importantes do Windows:
 #### Windows 95 (1995): 
-  O Windows 95 supre a demanda dos usuários que utilizam o computador no ambiente do escritório com o acesso a bancos de dados, planilhas, editores de textos; usuários que necessitem de recursos de computação móvel; ou ainda usuários de computadores em casa e que tiram proveito de novos recursos como multimídia.
+  O Windows 95 atende usuários de escritório, que utilizam bancos de dados, planilhas e editores de texto, além de suportar computação móvel e recursos multimídia para usuários domésticos.
 #### Windows XP (2001):
- Sua importância consiste em comandar todo o trabalho do computador através de vários aplicativos que ele traz consigo, oferecendo uma interface de interação com o usuário bastante rica e eficiente. Procure conhecer detalhadamente os recursos desse sistema operacional.
+Sua importância é comandar o funcionamento do computador, oferecendo uma interface rica e eficiente, além de diversos aplicativos e recursos.
 #### Windows 7 (2009): 
- O Windows 7 foi desenvolvido com foco em eficiência, clareza e praticidade, além da compatibilidade com hardware e software. Ele foi capaz de reduzir os problemas com programas que foram desenvolvidos para Windows XP.
+O Windows 7 foi desenvolvido para ser eficiente, claro e prático, além de ser compatível com hardware e software, reduzindo problemas com programas do Windows XP.
 #### Windows 10 (2012):
- O Windows 10 foi projetado para fornecer atualizações sobre o tempo de vida do suporte do dispositivo. Dois tipos de atualizações podem ser fornecidos: atualizações de qualidade e de recursos.
+ O Windows 10 fornece atualizações durante o suporte do dispositivo, incluindo atualizações de qualidade e de recursos.
 #### Windows 11 (2021):
-Foi projetado para aumentar a produtividade, facilitando o acesso do menu "Iniciar", deixando-o mais organizado. Além disso, os recursos "Layouts" e "Grupos Snap" permitem que a função multitarefas se torne ainda mais eficiente.
-Hardware: É a base do sistema, incluindo o processador, memória e dispositivos de entrada e saída. 
+ Foi projetado para aumentar a produtividade, com um menu "Iniciar" mais organizado e recursos como "Layouts" e "Grupos Snap" para melhorar a multitarefa.
+### Arquitetura do Windows
+**Hardware:** A base do sistema, incluindo o processador, memória, e dispositivos de entrada/saída.
 
-Kernel: A parte principal do sistema operacional, responsável por controlar o hardware e os recursos do sistema, operando em dois modos:  
+**Kernel:** A parte central do sistema operacional, responsável por gerenciar o hardware e os recursos do sistema, funcionando em dois modos: Kernel (acesso total) e Usuário (acesso restrito).
 
- 1- Modo Kernel (acesso completo)
+**Gerenciamento de Processos e Memória:** O Windows organiza e aloca a memória e os processos para otimizar o desempenho do sistema.
 
- 2- Modo Usuário (acesso limitado).
+**Sistema de Arquivos (NTFS):**  Organiza e armazena dados no disco rígido com eficiência e segurança.
 
-Gerenciamento de Processos e Memória: O Windows organiza e aloca a memória e os processos para otimizar o desempenho do sistema.
+**Drivers de Dispositivos:** Permitem a comunicação do Windows com o hardware, como impressoras e placas de vídeo.
 
-Sistema de Arquivos: Organiza e armazena dados no disco rígido, garantindo eficiência e segurança no armazenamento.
+**Sub-sistemas de Software:** Permitem rodar programas do Unix/Linux no Windows.
 
- Drivers de Dispositivos:  Permitem que o Windows se comunique com o hardware, como impressoras e placas de vídeo.
- Sub Sistemas de Softwares: Permitem rodar diferentes tipos de programas no Windows, como os desenvolvidos para Unix/Linux.
+**Interface de Usuário:** A camada visual que facilita a interação com o sistema por janelas, ícones e menus.
+
+**API:** Permite que desenvolvedores criem aplicativos que interagem diretamente com o sistema operacional.
+
+**Segurança:** Inclui controle de acesso, antivírus, firewall e criptografia para proteger dados e o sistema.
+### Comandos do Windows:
+     1- CLS: É usado para apagar todas as informações mostradas na tela, e coloca o cursor no canto superior esquerdo.
+Exibe as configurações de rede do computador. 
+Exemplo: C:\>CLS <enter>
+
+     2- VER: É usado para mostrar a versão do sistema operacional em uso.
+Exemplo: C:\>ver
+Windows XP [Versão 6.46]
+C:\>
+     
+     3- EXIT: Este comando é usado somente no prompt do DOS em ambiente Windows, para fechar o prompt, não sendo válido para usar em ambiente WINDOWS. 
+OBS.: Este comando foi removido no Windows 7 e seguintes (Vista, 7,8,10)
+
+Exemplo: C:\>exit <enter>
+
+     4- COPY: Usado para copiar um ou mais arquivos de um diretório para outro.
+Exemplo: C:\>COPY D:\EXEMPLO\ARQUIVO.TXT E:\PASTA
+
+     5- DATE: é usado para mostrar a data atual do sistema, podendo ser atualizada. 
+Exemplo: C:\>DATE
+Data atual: ter 20/01/1999
+Digite a nova data: (dd-mm-aa) 06/01/2000
+     
+### 5 Curiosidades sobre o Windows:
+- Aproximadamente 78% das pessoas no mundo usam o Windows.
+- O Windows XP, segundo a Microsoft, possui cerca de 45 milhões de linhas de código.
+- O Windows 95 foi um sucesso, vendendo 40 milhões de cópias em um ano.
+- Algumas versões do Windows jamais foram lançadas.
+- O nome "Windows" foi inspirado pela ideia de múltiplas "janelas" (windows) que podem ser abertas ao mesmo tempo, permitindo aos usuários realizar várias tarefas simultaneamente.
